@@ -11,7 +11,7 @@
 </div>
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">Hello there, I'm Milosz 👋</h1></summary>
+    <summary align="center"><h1 style="display: inline-block;">Hello there, I'm Milosz 👋</h1></summary>
   </ul>
 </div>
 
