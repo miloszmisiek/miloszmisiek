@@ -62,6 +62,6 @@
 ### 🔥 My Stats
 
 <div style="display: flex; flex-direction: row;">
-    <img class="img" height="200" src="https://github-readme-stats.vercel.app/api?username=miloszmisiek&theme=vue-dark" />
-    <img class="img" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszmisiek&layout=compact&theme=vision-friendly-dark" />
+    <img class="img" height="150" src="https://github-readme-stats.vercel.app/api?username=miloszmisiek&theme=vue-dark" />
+    <img class="img" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszmisiek&layout=compact&theme=vision-friendly-dark" />
 </div>
