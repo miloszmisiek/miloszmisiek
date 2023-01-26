@@ -9,8 +9,11 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
-<h1 align="center" style="border-bottom: none;">Hello there, I'm Milosz 👋 </h1>
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Hello there, I'm Milosz 👋</h1></summary>
+  </ul>
+</div>
 
 
 ## I'm a Full-stack Software Developer, Sailor and Student!
