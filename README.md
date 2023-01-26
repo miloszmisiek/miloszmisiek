@@ -15,7 +15,7 @@
   </ul>
 </div>
 
-## I'm a Full-stack Software Developer, Sailor and Student
+## I'm a Full-Stack Software Developer, Sailor and Student
 
 - 📚 I'm CS student of West Pomeranian Univeristy of Technology in Szczecin, Poland
 - 🌱 I’m currently learning Next.js and Big Data technologies
