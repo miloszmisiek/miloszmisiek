@@ -15,16 +15,14 @@
   </ul>
 </div>
 
-
-## I'm a Full-stack Software Developer, Sailor and Student!
+## I'm a Full-stack Software Developer, Sailor and Student
 
 - 📚 I'm CS student of West Pomeranian Univeristy of Technology in Szczecin, Poland
 - 🌱 I’m currently learning Next.js and Big Data technologies
 - 💻 I’m looking for interesting projects opportunities
 - 🚲 If I'm not coding, you will find me on a road riding my bicycle or at sea 🏄 waves
 
-
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
@@ -60,8 +58,10 @@
 <br />
 
 ---
+
 ### 🔥 My Stats
 
-  [![Milosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=miloszmisiek&theme=vue-dark)](https://github.com/miloszmisiek)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miloszmisiek&layout=compact&theme=vision-friendly-dark)](https://github.com/miloszmisiek)
+<div style="display: flex; flex-direction: row;">
+    <img class="img" height="200" src="https://github-readme-stats.vercel.app/api?username=miloszmisiek&theme=vue-dark" />
+    <img class="img" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszmisiek&layout=compact&theme=vision-friendly-dark" />
+</div>
