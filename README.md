@@ -10,7 +10,7 @@
   </a>
 </div>
 
-# Hello there, I'm Milosz 👋 
+<h1 align="center">Hello there, I'm Milosz 👋 </h1>
 
 
 ## I'm a Full-stack Software Developer, Sailor and Student!
