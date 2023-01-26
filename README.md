@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center" style="border-bottom: none">Hello there, I'm Milosz 👋 </h1>
+<h1 align="center" style="border-bottom: none;">Hello there, I'm Milosz 👋 </h1>
 
 
 ## I'm a Full-stack Software Developer, Sailor and Student!
