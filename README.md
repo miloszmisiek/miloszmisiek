@@ -62,7 +62,8 @@
 <div id="footer-content-toc">
   <ul>
     <summary align="center"><h3 style="display: inline-block;">CONTACT ME</h3></summary>
-  <div id="badges" align="center">
+  </ul>
+    <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/milosz-misiek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -70,5 +71,4 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-  </ul>
 </div>
