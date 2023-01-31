@@ -1,15 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://res.cloudinary.com/milo-milo/image/upload/v1675176377/milosz_misiek_2_dhri9l.png" width="1200" />
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/milosz-misiek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:milosz.misiek@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-<div id="user-content-toc">
+
   <ul>
     <summary align="center"><h1 style="display: inline-block;">Hello there, I'm Milosz 👋</h1></summary>
   </ul>
@@ -64,4 +56,14 @@
 <div style="display: flex; flex-direction: row;">
     <img class="img" height="150" src="https://github-readme-stats.vercel.app/api?username=miloszmisiek&theme=vue-dark" />
     <img class="img" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszmisiek&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+---
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/milosz-misiek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:milosz.misiek@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
