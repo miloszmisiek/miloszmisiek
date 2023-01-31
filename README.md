@@ -59,11 +59,16 @@
 </div>
 
 ---
-<div id="badges" align="center">
+<div id="footer-content-toc">
+  <ul>
+    <summary align="center"><h3 style="display: inline-block;">CONTACT ME</h3></summary>
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/milosz-misiek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:milosz.misiek@gmail.com">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+</div>
+  </ul>
 </div>
