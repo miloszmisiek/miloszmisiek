@@ -10,7 +10,7 @@
 ## I'm a Full-Stack Software Developer, Sailor and Student
 
 - 📚 I'm CS student of West Pomeranian University of Technology in Szczecin, Poland
-- 🌱 I’m currently learning Next.js and Big Data technologies
+- 🌱 I’m currently learning C++ and PHP
 - 💻 I’m looking for interesting projects opportunities
 - 🚲 If I'm not coding, you will find me on a road riding my bicycle or at sea 🏄 waves
 
