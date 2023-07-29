@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/milo-milo/image/upload/v1690652570/Milosz_Misiek_r9apsb.gif" width="1200" />
+  <img src="https://res.cloudinary.com/milo-milo/image/upload/v1690652978/ezgif.com-gif-maker_fy0be9.gif" width="1200" />
 </div>
 <div id="user-content-toc">
   <ul>
