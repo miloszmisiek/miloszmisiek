@@ -9,10 +9,10 @@
 
 ## I'm a Full-Stack Software Developer, Sailor and Student
 
-- 📚 I'm a Software Developer and CS student of West Pomeranian University of Technology in Szczecin, Poland
-- 🛠️ I’m currently working as a Frontend Developer
-- 💻 I have passion for building projects with use of React, TypeScript and JavaScript 
-- 🚲 If I'm not coding, you will find me on a road riding my bicycle or playing 🎾
+- 📚  I'm a Software Engineer and a Ph.D. candidate in Computer Science at the West Pomeranian University of Technology in Szczecin, Poland.
+- 🛠️ I’m currently working as a Software Engineer.
+- 💻  I’m passionate about building projects with React, TypeScript, and Python.
+- 🚲 When I’m not coding, you’ll find me out on the road riding my bike or playing tennis 🎾
 
 ### 🔧 Languages and Tools
 
