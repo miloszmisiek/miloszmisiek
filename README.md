@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-## I'm a Full-Stack Software Developer, Sailor and Student
+## I’m a Full-Stack Software Engineer and a former sailor.
 
 - 📚  I'm a Software Engineer and a Ph.D. candidate in Computer Science at the West Pomeranian University of Technology in Szczecin, Poland.
 - 🛠️ I’m currently working as a Software Engineer.
